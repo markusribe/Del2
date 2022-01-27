@@ -1,12 +1,13 @@
 package main
 
 	import (
-	"github.com/markusribe/myquote"
+		"fmt"
+		"github.com/markusribe/myquote"
 	)
 
 	func main(){
-		myquote.Glass()
-		myquote.Go()
-		myquote.Hello()
-		myquote.Opt()
+		fmt.Println(myquote.Glass())
+		fmt.Println(myquote.Go())
+		fmt.Println(myquote.Hello())
+		fmt.Println(myquote.Opt())
 	}
