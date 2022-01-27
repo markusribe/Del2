@@ -1,7 +1,7 @@
 package main
 
 	import (
-	"github.com/markusribe/myquote/"
+	"github.com/markusribe/myquote"
 	)
 
 	func main(){
